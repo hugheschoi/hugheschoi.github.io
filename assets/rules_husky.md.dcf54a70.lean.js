@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as p}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rules/husky.md"}'),l={name:"rules/husky.md"},o=p("",70),e=[o];function t(c,r,D,y,i,F){return a(),n("div",null,e)}const m=s(l,[["render",t]]);export{A as __pageData,m as default};
