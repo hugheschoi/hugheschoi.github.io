@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,x as o}from"./chunks/framework.cd9250a1.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/middle/index.md"}'),n={name:"algorithm/middle/index.md"},s=o("p",null,"中等",-1),r=[s];function d(c,i,_,l,m,p){return a(),t("div",null,r)}const x=e(n,[["render",d]]);export{h as __pageData,x as default};
