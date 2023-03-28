@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,N as t}from"./chunks/framework.cd9250a1.js";const f=JSON.parse('{"title":"启发式搜索","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/7.3 启发式搜索.md"}'),o={name:"algorithm/算法体系/7.3 启发式搜索.md"},i=t("",4),s=[i];function l(n,_,c,h,p,d){return r(),a("div",null,s)}const b=e(o,[["render",l]]);export{f as __pageData,b as default};

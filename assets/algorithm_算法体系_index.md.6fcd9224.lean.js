@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as l,N as t}from"./chunks/framework.cd9250a1.js";const u=JSON.parse('{"title":"算法","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/index.md"}'),o={name:"algorithm/算法体系/index.md"},i=t("",9),r=[i];function c(n,d,h,s,_,m){return l(),a("div",null,r)}const b=e(o,[["render",c]]);export{u as __pageData,b as default};

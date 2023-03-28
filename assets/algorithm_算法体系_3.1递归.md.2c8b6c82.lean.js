@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const i=JSON.parse('{"title":"递归","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/3.1递归.md"}'),p={name:"algorithm/算法体系/3.1递归.md"},o=l("",51),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const f=s(p,[["render",t]]);export{i as __pageData,f as default};

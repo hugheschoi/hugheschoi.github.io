@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const i=JSON.parse('{"title":"数组","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/1.1数组.md"}'),p={name:"algorithm/算法体系/1.1数组.md"},o=l("",49),t=[o];function e(c,r,y,F,D,C){return a(),n("div",null,t)}const f=s(p,[["render",e]]);export{i as __pageData,f as default};

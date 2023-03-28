@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,N as t}from"./chunks/framework.cd9250a1.js";const f=JSON.parse('{"title":"Trie树","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/6.1字典树.md"}'),i={name:"algorithm/算法体系/6.1字典树.md"},o=t("",7),l=[o];function n(s,_,c,h,d,p){return a(),r("div",null,l)}const T=e(i,[["render",n]]);export{f as __pageData,T as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"栈、队列","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/1.3栈.md"}'),p={name:"algorithm/算法体系/1.3栈.md"},o=l("",39),t=[o];function e(c,r,y,F,D,i){return a(),n("div",null,t)}const f=s(p,[["render",e]]);export{A as __pageData,f as default};

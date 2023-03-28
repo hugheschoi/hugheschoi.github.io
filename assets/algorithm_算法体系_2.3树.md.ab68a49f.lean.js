@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const C=JSON.parse('{"title":"树","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/2.3树.md"}'),p={name:"algorithm/算法体系/2.3树.md"},o=l("",42),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{C as __pageData,u as default};
