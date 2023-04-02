@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,N as r}from"./chunks/framework.cd9250a1.js";const q=JSON.parse('{"title":"动态规划","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/5.1动态规划.md"}'),i={name:"algorithm/算法体系/5.1动态规划.md"},o=r("",19),h=[o];function l(n,d,s,c,u,b){return t(),e("div",null,h)}const _=a(i,[["render",l]]);export{q as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as e}from"./chunks/framework.cd9250a1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"chatgpt/给项目设置环境变量.md"}'),p={name:"chatgpt/给项目设置环境变量.md"},l=e("",58),o=[l];function c(t,i,r,C,d,A){return a(),n("div",null,o)}const D=s(p,[["render",c]]);export{u as __pageData,D as default};
