@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as s,x as a}from"./chunks/framework.cd9250a1.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/初级算法/test.md"}'),o={name:"algorithm/初级算法/test.md"},r=a("p",null,"1112",-1),n=[r];function c(_,i,d,l,p,m){return s(),e("div",null,n)}const u=t(o,[["render",c]]);export{h as __pageData,u as default};
