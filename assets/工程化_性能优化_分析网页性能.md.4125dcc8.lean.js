@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,N as r}from"./chunks/framework.cd9250a1.js";const S=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"工程化/性能优化/分析网页性能.md"}'),a={name:"工程化/性能优化/分析网页性能.md"},o=r("",6),_=[o];function p(s,i,c,n,l,h){return d(),e("div",null,_)}const T=t(a,[["render",p]]);export{S as __pageData,T as default};
