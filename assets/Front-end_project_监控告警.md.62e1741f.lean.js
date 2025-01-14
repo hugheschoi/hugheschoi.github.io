@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,N as r}from"./chunks/framework.cd9250a1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Front-end/project/监控告警.md"}'),i={name:"Front-end/project/监控告警.md"},p=r("",17),s=[p];function o(l,n,d,m,h,_){return t(),e("div",null,s)}const b=a(i,[["render",o]]);export{u as __pageData,b as default};

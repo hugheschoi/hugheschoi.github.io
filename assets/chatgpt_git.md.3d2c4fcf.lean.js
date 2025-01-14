@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as p}from"./chunks/framework.cd9250a1.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"chatgpt/git.md"}'),l={name:"chatgpt/git.md"},e=p("",29),o=[e];function t(c,r,i,C,y,d){return n(),a("div",null,o)}const h=s(l,[["render",t]]);export{g as __pageData,h as default};

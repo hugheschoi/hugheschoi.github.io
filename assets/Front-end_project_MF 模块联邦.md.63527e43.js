@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.cd9250a1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Front-end/project/MF 模块联邦.md"}'),o={name:"Front-end/project/MF 模块联邦.md"};function a(n,c,s,_,p,d){return r(),t("div")}const f=e(o,[["render",a]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.cd9250a1.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"项目经验/工程化经验/wf微前端.md"}'),r={name:"项目经验/工程化经验/wf微前端.md"};function o(s,c,n,_,p,f){return a(),t("div")}const m=e(r,[["render",o]]);export{i as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as p}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/初级算法/链表/1.删除链表中的节点.md"}'),l={name:"algorithm/初级算法/链表/1.删除链表中的节点.md"},o=p("",13),e=[o];function t(c,r,i,C,D,d){return n(),a("div",null,e)}const _=s(l,[["render",t]]);export{A as __pageData,_ as default};

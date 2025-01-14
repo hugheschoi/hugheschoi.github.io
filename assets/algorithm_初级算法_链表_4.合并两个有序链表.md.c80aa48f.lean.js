@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/初级算法/链表/4.合并两个有序链表.md"}'),p={name:"algorithm/初级算法/链表/4.合并两个有序链表.md"},o=l("",14),e=[o];function t(c,r,y,F,D,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

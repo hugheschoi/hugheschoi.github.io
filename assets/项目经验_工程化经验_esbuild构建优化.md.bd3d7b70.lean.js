@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.cd9250a1.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"项目经验/工程化经验/esbuild构建优化.md"}'),s={name:"项目经验/工程化经验/esbuild构建优化.md"};function r(o,c,n,_,d,i){return a(),t("div")}const m=e(s,[["render",r]]);export{l as __pageData,m as default};

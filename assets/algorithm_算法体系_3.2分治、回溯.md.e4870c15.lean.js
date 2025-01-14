@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const i=JSON.parse('{"title":"分治和回溯","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/3.2分治、回溯.md"}'),p={name:"algorithm/算法体系/3.2分治、回溯.md"},o=l("",41),t=[o];function e(c,r,y,F,D,A){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};

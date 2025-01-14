@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,N as t}from"./chunks/framework.cd9250a1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"项目经验/低代码平台/asline架构分析.md"}'),_={name:"项目经验/低代码平台/asline架构分析.md"},a=t("",5),s=[a];function o(n,c,p,r,d,m){return e(),l("div",null,s)}const T=i(_,[["render",o]]);export{f as __pageData,T as default};

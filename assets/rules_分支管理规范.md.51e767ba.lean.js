@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as e}from"./chunks/framework.cd9250a1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rules/分支管理规范.md"}'),l={name:"rules/分支管理规范.md"},p=e("",4),o=[p];function t(c,r,i,C,_,d){return n(),a("div",null,o)}const A=s(l,[["render",t]]);export{u as __pageData,A as default};

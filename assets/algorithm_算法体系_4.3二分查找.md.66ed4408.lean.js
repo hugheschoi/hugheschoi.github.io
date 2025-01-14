@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"二分查找","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/算法体系/4.3二分查找.md"}'),p={name:"algorithm/算法体系/4.3二分查找.md"},o=l("",21),e=[o];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

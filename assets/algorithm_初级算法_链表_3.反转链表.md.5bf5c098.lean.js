@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/初级算法/链表/3.反转链表.md"}'),o={name:"algorithm/初级算法/链表/3.反转链表.md"},p=l("",13),e=[p];function t(c,r,y,F,i,D){return a(),n("div",null,e)}const A=s(o,[["render",t]]);export{C as __pageData,A as default};

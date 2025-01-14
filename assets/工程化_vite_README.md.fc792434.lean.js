@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,N as i}from"./chunks/framework.cd9250a1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"工程化/vite/README.md"}'),l={name:"工程化/vite/README.md"},r=i("",6),_=[r];function a(n,s,p,c,h,m){return o(),e("div",null,_)}const u=t(l,[["render",a]]);export{f as __pageData,u as default};
